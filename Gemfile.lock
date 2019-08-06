@@ -1,8 +1,8 @@
 GIT
-  remote: https://github.com/TheReconJacob/awesome_gem-1
-  revision: 24d2a9d330ec2e9fdb7b82a667a3d8545b942c63
+  remote: https://github.com/awesome-print/awesome_print
+  revision: 4564fd74721562cbef2443f7d97109bf9192343d
   specs:
-    awesome_gem (0.1.0)
+    awesome_print (1.8.0)
 
 GEM
   remote: https://rubygems.org/
@@ -49,7 +49,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  awesome_gem!
+  awesome_print!
   hashie
   octokit (~> 2.0)
   pry
